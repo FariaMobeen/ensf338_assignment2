@@ -1,4 +1,5 @@
 # Implement a version of the code above that use memoization to improve performance
+#code from chat gpt
 def func(n):
 	if n == 0 or n == 1:
 		return n
